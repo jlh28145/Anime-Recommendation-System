@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/maulipatel18/anime-content-based-recommendation-system-datasets
+https://www.kaggle.com/datasets/vishalmane109/anime-recommendations-database
+https://marutitech.medium.com/what-are-the-types-of-recommendation-systems-3487cbafa7c9
+https://prabhatm27.medium.com/creating-a-hybrid-neural-network-for-movie-recommendations-using-tensorflow-recommenders-fdad13aa4979#:~:text=In%20the%20movie%20recommendation%20system,and%20relationships%20in%20the%20data.
